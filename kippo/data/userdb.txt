@@ -1,0 +1,4 @@
+root:0:123456
+ubnt:0:ubnt
+admin:0:admin
+root:0:root
